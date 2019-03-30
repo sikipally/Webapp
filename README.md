@@ -1,2 +1,2 @@
 Webapp
-This is my app
+<p>This is my app</p>
